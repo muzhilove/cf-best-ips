@@ -8,7 +8,6 @@ cloudflare.182682.xyz
 fn.130519.xyz
 store.ubi.com
 cdn.2020111.xyz
-saas.sin.fan
 xn--b6gac.eu.org
 icook.hk
 www.allianz.com
