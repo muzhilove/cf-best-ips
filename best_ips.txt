@@ -5,7 +5,6 @@ mfa.gov.ua
 staticdelivery.nexusmods.com
 cdns.doon.eu.org
 cloudflare.182682.xyz
-fn.130519.xyz
 store.ubi.com
 cdn.2020111.xyz
 xn--b6gac.eu.org
