@@ -17,7 +17,8 @@ mogas.com
 www.visa.cn
 23.227.38.74#域名解析-23.227.38.74
 cloudflare.182682.xyz#WeTest.Vip维护
-cfip.xxxxxxxx.tk#OTC维护mfa.gov.ua
+cfip.xxxxxxxx.tk#OTC维护
+mfa.gov.ua
 icook.hk
 skk.moe
 www.allianz.com
@@ -26,3 +27,5 @@ cdns.doon.eu.org
 store.ubi.com
 serviceshub.samsclub.com
 staticdelivery.nexusmods.com
+45.78.44.248HK搬瓦工反代1-45.78.44.248
+116.62.138.224#浙江反代1-116.62.138.224
